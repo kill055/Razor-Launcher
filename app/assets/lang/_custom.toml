@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Razor Launcher - v1.0.0"
+
+[ejs.landing]
+mediaGitHubURL = "https://launcher.razorbot.eu"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.razorbot.eu"
+
+[ejs.settings]
+sourceGithubLink = "https://discord.razorbot.eu"
+supportLink = "https://discord.razorbot.eu"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU RAZOR"
+welcomeDescription = ""
+welcomeDescCTA = "Copyright © 2026 Razor Studios"
